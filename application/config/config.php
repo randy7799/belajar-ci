@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'http://localhost/14.11.7799/belajar-ci/';
 
 /*
 |--------------------------------------------------------------------------
